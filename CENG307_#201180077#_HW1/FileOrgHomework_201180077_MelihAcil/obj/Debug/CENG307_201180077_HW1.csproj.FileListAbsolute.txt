@@ -1,0 +1,10 @@
+C:\Users\Yibif\Downloads\CENG307_201180077_HW1(1)\CENG307_#201180077#_HW1\FileOrgHomework_201180077_MelihAcil\bin\Debug\FileOrgHomework_201180077_MelihAcil.exe.config
+C:\Users\Yibif\Downloads\CENG307_201180077_HW1(1)\CENG307_#201180077#_HW1\FileOrgHomework_201180077_MelihAcil\bin\Debug\FileOrgHomework_201180077_MelihAcil.exe
+C:\Users\Yibif\Downloads\CENG307_201180077_HW1(1)\CENG307_#201180077#_HW1\FileOrgHomework_201180077_MelihAcil\bin\Debug\FileOrgHomework_201180077_MelihAcil.pdb
+C:\Users\Yibif\Downloads\CENG307_201180077_HW1(1)\CENG307_#201180077#_HW1\FileOrgHomework_201180077_MelihAcil\obj\Debug\CENG307_201180077_HW1.csproj.AssemblyReference.cache
+C:\Users\Yibif\Downloads\CENG307_201180077_HW1(1)\CENG307_#201180077#_HW1\FileOrgHomework_201180077_MelihAcil\obj\Debug\CENG307_201180077_HW1.Form1.resources
+C:\Users\Yibif\Downloads\CENG307_201180077_HW1(1)\CENG307_#201180077#_HW1\FileOrgHomework_201180077_MelihAcil\obj\Debug\FileOrgHomework_201180077_MelihAcil.Properties.Resources.resources
+C:\Users\Yibif\Downloads\CENG307_201180077_HW1(1)\CENG307_#201180077#_HW1\FileOrgHomework_201180077_MelihAcil\obj\Debug\CENG307_201180077_HW1.csproj.GenerateResource.cache
+C:\Users\Yibif\Downloads\CENG307_201180077_HW1(1)\CENG307_#201180077#_HW1\FileOrgHomework_201180077_MelihAcil\obj\Debug\CENG307_201180077_HW1.csproj.CoreCompileInputs.cache
+C:\Users\Yibif\Downloads\CENG307_201180077_HW1(1)\CENG307_#201180077#_HW1\FileOrgHomework_201180077_MelihAcil\obj\Debug\FileOrgHomework_201180077_MelihAcil.exe
+C:\Users\Yibif\Downloads\CENG307_201180077_HW1(1)\CENG307_#201180077#_HW1\FileOrgHomework_201180077_MelihAcil\obj\Debug\FileOrgHomework_201180077_MelihAcil.pdb
